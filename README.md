@@ -1,6 +1,8 @@
 # GPT3-powered React chatbot
 
 This is a simple React chatbot that uses OpenAI's GPT3 API to generate responses to user input.Optionally it can correct the errors in the things you type. At the same time, it can return code in markdown format and output highlighted code blocks. 
+![blog](https://user-images.githubusercontent.com/105830845/225820426-4cbedce7-6d2d-4d89-a22f-1ab1ffca693f.png)
+
 
 Try it out under https://github.com/rotk2022/react-gpt3-chatbot/.
 
